@@ -1,2 +1,2 @@
 # fmeto
-Just another text editor
+My first Homebrew
